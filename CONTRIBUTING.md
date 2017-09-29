@@ -15,6 +15,8 @@ Este recurso foi feito pela comunidade e não seria possível sem você! Nós ag
 
 Por favor, contribua com links para conteúdos aos quais está familiarizado (ou já tenha consumido). Isso ajuda a garantir entradas de alta qualidade. Também prefira uma referência acadêmica ao invés da página de um site de vendas online (exceto editoras).
 
+**ATENÇÃO**: em nenhuma hipótese será permitido a divulgação ou reprodução de conteúdo pirateado, links para armazenamento privado (S3, Google Drive, Dropbox, etc.) ou anexos em qualquer formato. Respeite o trabalho do autor e/ou instituição.
+
 Se você removeu o modelo de PR, você pode encontrá-lo [aqui](https://github.com/geovanisouza92/algoritmos/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
 
 
