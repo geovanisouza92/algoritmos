@@ -32,6 +32,10 @@ Uma habilidade essencial para pesquisadores é saber fazer boas pesquisas. Muita
 
 ## Em Português
 
+- [C para seres humanos](http://github.com/RoboCopGay/CParaSeresHumanos): Livro de linguagem C para iniciantes
+  - [ler online](http://robocopgay.github.io/CParaSeresHumanos)
+  - [repositorio](http://github.com/RoboCopGay/CParaSeresHumanos)
+  - [baixar pdf](https://github.com/RoboCopGay/CParaSeresHumanos/raw/master/c-para-seres-humanos.pdf)
 - [Projeto de Algoritmos com Implementações em Pascal e C](http://www2.dcc.ufmg.br/livros/algoritmos/index.php): TODO.
 
 ## Em Inglês
